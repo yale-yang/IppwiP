@@ -11,3 +11,7 @@ Project cause: at present, there is no simple intranet penetration program that 
 May 13, 2020: learning how to build open source projects
 
 2020年5月13日：目前正在学习如何建立开源项目
+
+May 14, 2020: Learn python programming language and prepare to officially start programming
+
+2020年5月14日：学习Python编程语言，准备正式开始程序编写
